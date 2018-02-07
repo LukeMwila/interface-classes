@@ -8,5 +8,7 @@ public class Main {
         bolt.setName("Bolt");
 
         System.out.println(bolt.getName());
+        bolt.play();
+        bolt.beFriendly();
     }
 }
